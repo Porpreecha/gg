@@ -1,3 +1,4 @@
 include:
   - board: nice_nano_v2
-    shield: my_6x18
+    shield: nice_nano_5x7
+
